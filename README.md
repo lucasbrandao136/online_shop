@@ -47,7 +47,6 @@ nodemon (para desenvolvimento)
 Clone o repositório:
 
 git clone https://github.com/seu-usuario/onlineshop.git
-cd onlineshop
 
 Instale as dependências:
 
