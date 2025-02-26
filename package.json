@@ -7,7 +7,7 @@
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Lucas Brandão",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
